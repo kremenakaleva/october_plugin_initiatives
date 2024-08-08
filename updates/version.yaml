@@ -15,3 +15,5 @@
 1.0.6:
     - 'Updated table pensoft_initiatives_data'
     - builder_table_update_pensoft_initiatives_data.php
+1.0.7:
+    - 'composer'
